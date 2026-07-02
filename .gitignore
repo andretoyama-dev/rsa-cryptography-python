@@ -1,0 +1,11 @@
+# Secrets and Keys
+.env
+
+# Generated messages and keys
+*.txt
+*.enc
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
